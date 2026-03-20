@@ -7,7 +7,7 @@ Search for any city worldwide and get **live weather updates**, including temper
 
 
 
-##  Features     
+##  Features      
 
 - Search weather by **city name**  
 - Get **live weather data** using OpenWeatherMap API  
